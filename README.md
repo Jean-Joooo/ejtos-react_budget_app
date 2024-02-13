@@ -1,4 +1,4 @@
-                                                              Coursera IBM Full Stack Courses
+                                                      Coursera IBM Full Stack Courses
 
 I crafted a React Budget Allocation App, click here to test it ----> https://jean-joooo.github.io/ejtos-react_budget_app/
 
