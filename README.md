@@ -1,4 +1,4 @@
-During my IBM Coursera Full Stack courses, I crafted a React Budget Allocation App -----> https://jean-joooo.github.io/ejtos-react_budget_app/
+During my IBM Coursera Full Stack courses, I crafted a React Budget Allocation App, which you can check out here -----> https://jean-joooo.github.io/ejtos-react_budget_app/
 
 This project revolves around leveraging the power of React to create a responsive and user-friendly application for budget tracking and analysis.
 
